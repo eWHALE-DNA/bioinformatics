@@ -1,0 +1,3 @@
+[submodule "metabarcoding-pipeline"]
+	path = metabarcoding-pipeline
+	url = https://github.com/laurenrodriguez/metabarcoding-pipeline.git
